@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoaraujo17
 - 👀 Sou apenas um jovem iniciante neste mundo da programação
 - 🌱 Atualmente estou a aprender Python, JavaScript e C.
-- 💞️ Espero ajudar os outros ao máximoe é isso kkkkkkk
+- 💞️ Espero ajudar os outros ao máximo e é isso kkkkkkk
 - 📫 ig:@bruno.araujo._  twitter:@brunoaraujo1400 
 
 <!---
